@@ -1,2 +1,2 @@
 # TheDopplerLooper
-RV Astronomical Simulation Utilizing NBody Simulation, Specscopy and PyOpenGL. McGill Hackathon 2020
+RV Astronomical Simulation Utilizing NBody, Specscopy and PyOpenGL. McGill Hackathon 2020
